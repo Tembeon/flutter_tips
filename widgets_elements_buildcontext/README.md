@@ -6,4 +6,4 @@
 * [InheritedWidget](https://www.didierboelens.com/2018/06/widget-state-context-inheritedwidget/)
 
 
-### Оригинал от [@plugfox](https://github.com/PlugFox), [источник](https://youtu.be/9LvO7xkueT4)
+Оригинал от [@plugfox](https://github.com/PlugFox), [источник](https://youtu.be/9LvO7xkueT4)
